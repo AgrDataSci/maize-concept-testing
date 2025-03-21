@@ -230,7 +230,7 @@ pld = data.frame(G,
                  FarmLand = dat$farm_land,
                  Country = as.factor(dat$country))
 
-head(pld)
+head(pld, 10)
 
 str(pld)
 
