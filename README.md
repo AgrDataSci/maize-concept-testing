@@ -1,6 +1,6 @@
 <!-- badges: start -->
 
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![paper](https://img.shields.io/badge/PeerReviewed-10.1017%2FS001447972500002X-green)](https://doi.org/10.1017/S001447972500002X) [![DOI](https://zenodo.org/badge/952456604.svg)](https://doi.org/10.5281/zenodo.15063837)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/deed.en) [![paper](https://img.shields.io/badge/PeerReviewed-10.1017%2FS001447972500002X-green)](https://doi.org/10.1017/S001447972500002X) [![DOI](https://zenodo.org/badge/952456604.svg)](https://doi.org/10.5281/zenodo.15063837)
 
 <!-- badges: end -->
 
