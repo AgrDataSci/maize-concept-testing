@@ -1,0 +1,11 @@
+# History files
+.Rhistory
+.Rapp.history
+.DS_Store
+.RData
+.Ruserdata
+.Rproj.user/
+*.zip
+*.png
+*.html
+data/raw

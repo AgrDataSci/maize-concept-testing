@@ -1,0 +1,9 @@
+"","Resilient (benchmark)","Livestock feed","Intercropping (with beans)","Home use","Green maize","Food and fodder","Family nutrition","Drought escape"
+"Resilient (benchmark)",NA,0.37,0.01,0.07,0.25,0.14,0.15,-0.01
+"Livestock feed",-0.37,NA,-0.37,-0.34,-0.2,-0.3,-0.29,-0.38
+"Intercropping (with beans)",-0.01,0.37,NA,0.06,0.24,0.13,0.14,-0.02
+"Home use",-0.07,0.34,-0.06,NA,0.19,0.07,0.08,-0.08
+"Green maize",-0.25,0.2,-0.24,-0.19,NA,-0.13,-0.11,-0.26
+"Food and fodder",-0.14,0.3,-0.13,-0.07,0.13,NA,0.02,-0.15
+"Family nutrition",-0.15,0.29,-0.14,-0.08,0.11,-0.02,NA,-0.16
+"Drought escape",0.01,0.38,0.02,0.08,0.26,0.15,0.16,NA
